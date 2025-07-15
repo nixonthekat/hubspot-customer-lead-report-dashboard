@@ -6,6 +6,8 @@
 
 3. That's it! pull your data in and give your bosses reports that hubspot cant give you!
 
+4. Also to note: the dashboard is password protected. Under dashboard.tsx we set a front end password (not secure) which by default is: largeoilrig
+
 # Made With
 
 Next.js
