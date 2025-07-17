@@ -8,6 +8,14 @@
 
 4. Also to note: the dashboard is password protected. Under dashboard.tsx we set a front end password (not secure) which by default is: largeoilrig
 
+# What you can see
+- Top Sales People based on lead conversion
+- Basic Graph/bar charts for sales reporting
+- Highest converting clients versus least converting clients
+- Lead Possibility
+- Source Breakdown for SEO
+- Probably more..
+
 # Made With
 
 Next.js
